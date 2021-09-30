@@ -1,0 +1,24 @@
+
+    
+    @import url('https://fonts.googleapis.com/css2?family=Ephesis&family=Nunito:ital,wght@1,600&display=swap');
+*{
+    background-color:wheat;
+    color:black;
+    font-size:larger;
+}
+
+
+h1{
+    text-align: center;
+}
+.container{
+    margin: auto;
+    width: 50%;
+    font-family:'Nunito';
+}
+input,label{
+    display: block;
+}
+input{
+    margin-bottom: 1rem;
+}
